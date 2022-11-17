@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/vijayantsatapara0968/StridelyDevOps/_apis/build/status/akashsaini04.pipelines-java?branchName=main)](https://dev.azure.com/vijayantsatapara0968/StridelyDevOps/_build/latest?definitionId=135&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
